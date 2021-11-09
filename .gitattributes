@@ -1,0 +1,3 @@
+$ cat .gitattributes
+
+*.makefile linguist-language=Dart
