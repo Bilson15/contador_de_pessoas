@@ -1,4 +1,4 @@
 
-*.makefile linguist-language=Dart
+*.* linguist-language=Dart
 
 
