@@ -1,5 +1,4 @@
-* linguist-vendored
 
-*.makefile linguist-language=Dart
+*.* linguist-language=Dart
 
 
