@@ -1,6 +1,6 @@
 <h1 align="center">contador_de_pessoas</h1> 
 
-Projeto feito para estudo de flutter
+Projeto feito para estudo de flutter<br>
 Um aplicativo para contar pessoas, em momento de pandemia esse tipo de aplicativo se tornou bastante popular para controlar capacidade máxima dos estabelecimentos.
 
 <h1 align="center">App</h1> 
